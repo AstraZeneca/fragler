@@ -1,0 +1,12 @@
+name: golden-gate-cloning
+channels:
+  - conda-forge
+dependencies:
+  - dos2unix=7.4.1
+  - python=3.7.12
+  - r-base=4.1.1
+  - r-shiny=1.7.1
+  - r-stringi=1.7.6
+  - requests=2.27.1
+  - numpy=1.21.6
+
