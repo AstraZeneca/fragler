@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is tool implements an alogrithm to recycle fragments for modular DNA assembley. For details, see Öling et al ("FRAGLER: A Fragment Recycler Application Enabling Rapid and Scalable Modular DNA Assembly").
+This tool implements an alogrithm to recycle fragments for modular DNA assembley. For details, see Öling et al ("FRAGLER: A Fragment Recycler Application Enabling Rapid and Scalable Modular DNA Assembly").
 
 ## Dependencies
 
